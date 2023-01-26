@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Dictionary/static/css/main.32da1a9c.css",
+    "main.js": "/Dictionary/static/js/main.bc062bc4.js",
+    "static/js/787.37bd335c.chunk.js": "/Dictionary/static/js/787.37bd335c.chunk.js",
+    "static/media/welcome.gif": "/Dictionary/static/media/welcome.4b27aaa923dbc7aef37f.gif",
+    "static/media/sound.png": "/Dictionary/static/media/sound.5f666ab73c8c951b99d4.png",
+    "static/media/wordicon.jpg": "/Dictionary/static/media/wordicon.26afd275dcc9f0094ab0.jpg",
+    "index.html": "/Dictionary/index.html",
+    "main.32da1a9c.css.map": "/Dictionary/static/css/main.32da1a9c.css.map",
+    "main.bc062bc4.js.map": "/Dictionary/static/js/main.bc062bc4.js.map",
+    "787.37bd335c.chunk.js.map": "/Dictionary/static/js/787.37bd335c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32da1a9c.css",
+    "static/js/main.bc062bc4.js"
+  ]
+}
